@@ -1,109 +1,75 @@
 <div align="center">
 
-[![Synthwave Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30&height=200&section=header&text=MOHAMMED%20SUHAIL&fontSize=48&fontFamily=monospace&fontColor=00f5ff&fontAlignY=38&desc=CSE%20%E2%80%A2%20Software%20Dev%20%E2%80%A2%20AI%2FML%20%E2%80%A2%20Full%20Stack%20%E2%80%A2%20DSA&descAlignY=60&descColor=ff00cc&descSize=13)](https://github.com/Suhaiail)
+[![Header](https://capsule-render.vercel.app/api?type=waving&color=0:020610,40:0a1628,70:0e2040,100:38bdf8&height=220&section=header&text=MOHAMMED%20SUHAIL&fontSize=46&fontFamily=monospace&fontColor=e8f2ff&fontAlignY=38&desc=AI%20Systems%20%E2%80%A2%20Full%20Stack%20Engineering%20%E2%80%A2%20Machine%20Learning%20%E2%80%A2%20LLM%20Applications%20%E2%80%A2%20DSA&descAlignY=60&descColor=38bdf8&descSize=12&stroke=38bdf8&strokeWidth=1)](https://github.com/Suhaiail)
 
 </div>
+
 
 <div align="center">
 
-```
-CSE STUDENT  •  AI / ML  •  FULL STACK DEVELOPMENT  •  EMBEDDED SYSTEMS  •  DSA
-```
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Suhaiail&theme=transparent&border=38bdf8&background=020610&stroke=0e2040&ring=38bdf8&fire=2dd4bf&currStreakNum=e8f2ff&sideNums=e8f2ff&currStreakLabel=38bdf8&sideLabels=94a3b8&dates=94a3b8)](https://git.io/streak-stats)
 
 </div>
+
 
 <div align="center">
 
-Computer Science & Engineering student focused on **software development, AI/ML systems, and full-stack engineering.**
+[![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Suhaiail&bg_color=020610&color=38bdf8&line=38bdf8&point=2dd4bf&area=true&area_color=0e2040&border_color=38bdf8&title_color=e8f2ff)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-I build projects in **Python, C++, JavaScript, React, Node.js, and embedded platforms with Arduino & MATLAB.**
-
-Currently exploring **machine learning, full-stack web applications, data structures & algorithms, and embedded system design.**
-
-</div>
-
-<div align="center">
-  <a href="https://github.com/Suhaiail"><img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=13&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&lines=CSE+Student+%7C+Builder+%7C+Engineer;Python+%7C+C%2B%2B+%7C+Java+%7C+JavaScript;React+%7C+Node.js+%7C+Machine+Learning;Embedded+Systems+%7C+Arduino+%7C+MATLAB" alt="Typing SVG" /></a>
-</div>
+</div >
 
 ---
 
-## ✦ CURRENTLY\_WORKING\_ON
+<div align="center">
 
-- ▶️ AI/ML projects and machine learning model development
-- ▶️ Full stack web applications with React and Node.js
-- ▶️ Data structures & algorithms — competitive problem solving
-- ▶️ Embedded systems with Arduino IDE and MATLAB simulations
-- ▶️ Circuit design and simulation using LTspice and Keil uVision
-- ▶️ Strengthening fundamentals in C, C++, Java, and Python
-
----
-
-## ✦ TECH\_STACK
 
 ### Languages
-[![Python](https://img.shields.io/badge/Python-000010?style=for-the-badge&logo=python&logoColor=00f5ff)](https://www.python.org/)
-[![C++](https://img.shields.io/badge/C++-000010?style=for-the-badge&logo=cplusplus&logoColor=00f5ff)](https://isocpp.org/)
-[![C](https://img.shields.io/badge/C-000010?style=for-the-badge&logo=c&logoColor=00f5ff)](https://en.wikipedia.org/wiki/C_(programming_language))
-[![Java](https://img.shields.io/badge/Java-000010?style=for-the-badge&logo=openjdk&logoColor=00f5ff)](https://www.java.com/)
-[![JavaScript](https://img.shields.io/badge/JavaScript-000010?style=for-the-badge&logo=javascript&logoColor=ff00cc)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Python](https://img.shields.io/badge/Python-020610?style=for-the-badge&logo=python&logoColor=38bdf8&labelColor=020610)](https://www.python.org/)
+[![C++](https://img.shields.io/badge/C++-020610?style=for-the-badge&logo=cplusplus&logoColor=38bdf8&labelColor=020610)](https://isocpp.org/)
+[![C](https://img.shields.io/badge/C-020610?style=for-the-badge&logo=c&logoColor=38bdf8&labelColor=020610)](https://en.wikipedia.org/wiki/C_(programming_language))
+[![Java](https://img.shields.io/badge/Java-020610?style=for-the-badge&logo=openjdk&logoColor=38bdf8&labelColor=020610)](https://www.java.com/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-020610?style=for-the-badge&logo=javascript&logoColor=38bdf8&labelColor=020610)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
-### Frameworks & Tools
-[![React](https://img.shields.io/badge/React-000010?style=for-the-badge&logo=react&logoColor=00f5ff)](https://react.dev/)
-[![Node.js](https://img.shields.io/badge/Node.js-000010?style=for-the-badge&logo=nodedotjs&logoColor=00f5ff)](https://nodejs.org/)
-[![Git](https://img.shields.io/badge/Git-000010?style=for-the-badge&logo=git&logoColor=ff00cc)](https://git-scm.com/)
+### Frontend
+[![React](https://img.shields.io/badge/React-020610?style=for-the-badge&logo=react&logoColor=2dd4bf&labelColor=020610)](https://react.dev/)
+[![Next.js](https://img.shields.io/badge/Next.js-020610?style=for-the-badge&logo=nextdotjs&logoColor=e8f2ff&labelColor=020610)](https://nextjs.org/)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind-020610?style=for-the-badge&logo=tailwindcss&logoColor=2dd4bf&labelColor=020610)](https://tailwindcss.com/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-020610?style=for-the-badge&logo=typescript&logoColor=38bdf8&labelColor=020610)](https://www.typescriptlang.org/)
+
+### Backend & Databases
+[![Node.js](https://img.shields.io/badge/Node.js-020610?style=for-the-badge&logo=nodedotjs&logoColor=2dd4bf&labelColor=020610)](https://nodejs.org/)
+[![Express](https://img.shields.io/badge/Express-020610?style=for-the-badge&logo=express&logoColor=e8f2ff&labelColor=020610)](https://expressjs.com/)
+[![FastAPI](https://img.shields.io/badge/FastAPI-020610?style=for-the-badge&logo=fastapi&logoColor=2dd4bf&labelColor=020610)](https://fastapi.tiangolo.com/)
+[![MongoDB](https://img.shields.io/badge/MongoDB-020610?style=for-the-badge&logo=mongodb&logoColor=2dd4bf&labelColor=020610)](https://www.mongodb.com/)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-020610?style=for-the-badge&logo=postgresql&logoColor=38bdf8&labelColor=020610)](https://www.postgresql.org/)
+
+### AI / ML
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-020610?style=for-the-badge&logo=tensorflow&logoColor=a78bfa&labelColor=020610)](https://www.tensorflow.org/)
+[![PyTorch](https://img.shields.io/badge/PyTorch-020610?style=for-the-badge&logo=pytorch&logoColor=a78bfa&labelColor=020610)](https://pytorch.org/)
+[![LangChain](https://img.shields.io/badge/LangChain-020610?style=for-the-badge&logoColor=a78bfa&labelColor=020610)](https://www.langchain.com/)
+[![OpenAI](https://img.shields.io/badge/OpenAI_API-020610?style=for-the-badge&logo=openai&logoColor=a78bfa&labelColor=020610)](https://openai.com/)
+[![Scikit-learn](https://img.shields.io/badge/Scikit--learn-020610?style=for-the-badge&logo=scikitlearn&logoColor=a78bfa&labelColor=020610)](https://scikit-learn.org/)
 
 ### Engineering & Embedded Tools
-[![MATLAB](https://img.shields.io/badge/MATLAB-000010?style=for-the-badge&logoColor=ff00cc)](https://www.mathworks.com/products/matlab.html)
-[![Arduino IDE](https://img.shields.io/badge/Arduino_IDE-000010?style=for-the-badge&logo=arduino&logoColor=00f5ff)](https://www.arduino.cc/)
-[![Keil uVision](https://img.shields.io/badge/Keil_uVision-000010?style=for-the-badge&logoColor=8b00ff)](https://www.keil.com/)
-[![LTspice](https://img.shields.io/badge/LTspice-000010?style=for-the-badge&logoColor=8b00ff)](https://www.analog.com/en/resources/design-tools-and-calculators/ltspice-simulator.html)
+[![MATLAB](https://img.shields.io/badge/MATLAB-020610?style=for-the-badge&logoColor=94a3b8&labelColor=020610)](https://www.mathworks.com/products/matlab.html)
+[![Arduino IDE](https://img.shields.io/badge/Arduino_IDE-020610?style=for-the-badge&logo=arduino&logoColor=94a3b8&labelColor=020610)](https://www.arduino.cc/)
+[![Keil uVision](https://img.shields.io/badge/Keil_uVision-020610?style=for-the-badge&logoColor=94a3b8&labelColor=020610)](https://www.keil.com/)
+[![LTspice](https://img.shields.io/badge/LTspice-020610?style=for-the-badge&logoColor=94a3b8&labelColor=020610)](https://www.analog.com/en/resources/design-tools-and-calculators/ltspice-simulator.html)
+[![Git](https://img.shields.io/badge/Git-020610?style=for-the-badge&logo=git&logoColor=94a3b8&labelColor=020610)](https://git-scm.com/)
+[![Docker](https://img.shields.io/badge/Docker-020610?style=for-the-badge&logo=docker&logoColor=38bdf8&labelColor=020610)](https://www.docker.com/)
+[![Linux](https://img.shields.io/badge/Linux-020610?style=for-the-badge&logo=linux&logoColor=94a3b8&labelColor=020610)](https://www.linux.org/)
 
----
 
-## ✦ GITHUB\_STATS
+</div >
 
-<div align="center">
 
-<a href="https://github.com/Suhaiail"><img height="180" src="https://github-readme-stats.vercel.app/api?username=Suhaiail&show_icons=true&theme=synthwave&border_color=8b00ff&bg_color=0a0a12&title_color=00f5ff&icon_color=ff00cc&text_color=e0e0f0&cache_seconds=1800" /></a>
-<a href="https://github.com/Suhaiail?tab=repositories"><img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suhaiail&layout=compact&theme=synthwave&border_color=8b00ff&bg_color=0a0a12&title_color=00f5ff&text_color=e0e0f0&cache_seconds=1800" /></a>
-
-</div>
+## ◈ CONNECT
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Suhaiail&theme=synthwave&border=8b00ff&background=0a0a12&stroke=8b00ff&ring=ff00cc&fire=ff00cc&currStreakNum=00f5ff&sideNums=00f5ff&currStreakLabel=ff00cc&sideLabels=e0e0f0&dates=e0e0f0)](https://git.io/streak-stats)
+[![Email](https://img.shields.io/badge/EMAIL-020610?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=020610)](mailto:mohammed9087020@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-020610?style=for-the-badge&logo=linkedin&logoColor=38bdf8&labelColor=020610)](https://linkedin.com/in/suhailn2006)
+[![GitHub](https://img.shields.io/badge/GITHUB-020610?style=for-the-badge&logo=github&logoColor=e8f2ff&labelColor=020610)](https://github.com/Suhaiail)
 
-</div>
-
----
-
-## ✦ CONTRIBUTION\_GRAPH
-
-<div align="center">
-
-[![Mohammed Suhail's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Suhaiail&bg_color=0a0a12&color=00f5ff&line=ff00cc&point=ffd700&area=true&area_color=8b00ff&border_color=8b00ff&title_color=00f5ff)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
-## ✦ CONNECT\_WITH\_ME
-
-- ▶️ Email: [mohammed9087020@gmail.com](mailto:mohammed9087020@gmail.com)
-- ▶️ LinkedIn: [Mohammed Suhail](https://linkedin.com/in/suhailn2006)
-
-<div align="center">
-
-[![Email](https://img.shields.io/badge/EMAIL-000010?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:mohammed9087020@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-000010?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/suhailn2006)
-
-</div>
-
----
-
-<div align="center">
-
-[![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30&height=100&section=footer)](https://github.com/Suhaiail)
 
 </div>
