@@ -5,18 +5,6 @@
 </div>
 
 
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Suhaiail&theme=transparent&border=38bdf8&background=020610&stroke=0e2040&ring=38bdf8&fire=2dd4bf&currStreakNum=e8f2ff&sideNums=e8f2ff&currStreakLabel=38bdf8&sideLabels=94a3b8&dates=94a3b8)](https://git.io/streak-stats)
-
-</div>
-
-
-<div align="center">
-
-[![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Suhaiail&bg_color=020610&color=38bdf8&line=38bdf8&point=2dd4bf&area=true&area_color=0e2040&border_color=38bdf8&title_color=e8f2ff)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div >
 
 -- -
 
